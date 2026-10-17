@@ -6,7 +6,7 @@ pipeline {
     IMAGE_NAME = "ranjithrk123rk/project-3-pipeline"
     IMAGE_TAG = "${BUILD_NUMBER}"
     CONTAINER_NAME = "backend-express-b7"
-    EMAIL_TO = "venkatesangunaraj@gmail.com"
+    EMAIL_TO = "ranjithsedit@gmail.com"
     DOCKER_CREDENTIALS = "dockerhub-credentials"
   }
 
